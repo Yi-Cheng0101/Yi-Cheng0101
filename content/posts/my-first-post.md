@@ -1,7 +1,8 @@
 ---
-title: "YI-CHENG HSIAO BLOG"
-date: 2021-03-13T21:55:44+08:00
-draft: False
+title: "Ananke: a Hugo Theme"
+featured_image: '/images/gohugo-default-sample-hero-image.jpg'
+description: "The last theme you'll ever need. Maybe."
 ---
+Welcome to my blog with some of my work in progress. I've been working on this book idea. You can read some of the chapters below.
 
 # YI-CHENG HSIAO BLOG
