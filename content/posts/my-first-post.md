@@ -1,6 +1,6 @@
 ---
 title: "首頁"
-featured_image: '/images/IMG_5234.JPG'
+featured_image: '/images/2360A9C0-F546-444B-9CAC-BE1382AA286E.JPG'
 description: "The last theme you'll ever need. Maybe."
 ---
 
