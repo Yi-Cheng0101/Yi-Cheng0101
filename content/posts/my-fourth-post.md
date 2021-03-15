@@ -6,6 +6,7 @@ description: "我的生活錦集"
 
 
 ## 上海交通大學交換
+![image](https://github.com/Yi-Cheng0101/Yi-Cheng0101/blob/main/public/images/IMG_5301.PNG)
 2018 暑假 上海交通大學交換
 大一結束後的暑假，申請到上海交通大學交換生的資格，體驗了不一樣的教育環境，過程中也接觸到了許多上海交通大學實驗室，有跨領域的文創產業也有VR實驗室，與對岸的學生交流。
 
