@@ -7,7 +7,7 @@ description: "Welcome to my blog with some of my work in HPC Competition. "
 
 
 ### National Tsing Hua University Student Cluster Competition Team
-![image](https://github.com/Yi-Cheng0101/Yi-Cheng0101/blob/main/public/images/S__4685933.jpg)
+![image](https://github.com/Yi-Cheng0101/Yi-Cheng0101/blob/main/public/images/S__4685933.jpg?raw=true)
 
 ####  2020 APAC HPC-AI Competition               
 #####  -  Contestant          Singapore        Oct 2020
