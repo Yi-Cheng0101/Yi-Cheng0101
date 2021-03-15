@@ -1,9 +1,33 @@
 ---
 title: "STUDENT CLUSTER COMPETITION"
 featured_image: '/images/IMG_0297.jpg'
-description: ""
+description: "Welcome to my blog with some of my work in HPC Competition. "
 ---
-Welcome to my blog with some of my work in progress. I've been working on this book idea. You can read some of the chapters below.
+
+
+
+# National Tsing Hua University Student Cluster Competition Team
+    - 2020 APAC HPC-AI Competition Contestant Singapore Oct 2020
+        * High Performance and Artificial Intelligence supercomputers Competition.
+        * Co-organized by the HPC-AI Advisory Council and the Singapore National Supercomputing Center.
+        * Accelerate the ocean science model NEMO ( Nucleus for European Modelling of the Ocean ) from single node ( 24 cpus per node ) to 32 nodes ( 15 CPUs per node ).   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # HPC AI NEMO Application
 
