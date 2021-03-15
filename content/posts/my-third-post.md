@@ -7,6 +7,8 @@ description: "Welcome to my blog with some of my work in HPC Competition. "
 
 
 ### National Tsing Hua University Student Cluster Competition Team
+![image]()
+
 ####  2020 APAC HPC-AI Competition               
 #####  -  Contestant          Singapore        Oct 2020
    * High Performance and Artificial Intelligence supercomputers Competition.
