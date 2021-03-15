@@ -10,6 +10,7 @@ description: "Welcome to my blog with some of my work in HPC Competition. "
 ![image](https://github.com/Yi-Cheng0101/Yi-Cheng0101/blob/main/public/images/S__4685933.jpg?raw=true)
 
 ####  2020 APAC HPC-AI Competition               
+![image](https://github.com/Yi-Cheng0101/Yi-Cheng0101/blob/main/public/images/螢幕快照%202020-08-11%20下午11.47.06%20拷貝.png?raw=true)
 #####  -  Contestant          Singapore        Oct 2020
    * High Performance and Artificial Intelligence supercomputers Competition.
    * Co-organized by the HPC-AI Advisory Council and the Singapore National Supercomputing Center.
