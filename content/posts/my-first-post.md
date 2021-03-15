@@ -11,8 +11,8 @@ description: "大學時期藝術創作的天地"
 
 
 ## 清華藝集 - 展覽
-![image](https://github.com/Yi-Cheng0101/Yi-Cheng0101/blob/main/public/images/IMG_7558.JPG)
-![image](https://github.com/Yi-Cheng0101/Yi-Cheng0101/blob/main/public/images/%E8%9E%A2%E5%B9%95%E5%BF%AB%E7%85%A7%202021-03-15%20%E4%B8%8B%E5%8D%8811.18.02.png)
+![image](https://github.com/Yi-Cheng0101/Yi-Cheng0101/blob/main/public/images/IMG_7558.JPG?raw=true)
+![image](https://github.com/Yi-Cheng0101/Yi-Cheng0101/blob/main/public/images/%E8%9E%A2%E5%B9%95%E5%BF%AB%E7%85%A7%202021-03-15%20%E4%B8%8B%E5%8D%8811.18.02.png?raw=true)
 參與清華藝集三次聯展
 大學除了學業，延續美術的特長，在清華藝集
 中創作，從大一開始到大三，共參加了三次清華藝集展覽，大二任助教時，也曾擔任展覽策展人，策劃整個展覽。
