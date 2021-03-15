@@ -18,8 +18,9 @@ description: "大學時期藝術創作的天地"
 中創作，從大一開始到大三，共參加了三次清華藝集展覽，大二任助教時，也曾擔任展覽策展人，策劃整個展覽。
 
 ## 個展 -  [一覺自然醒過來]  清大藝術工坊
-![image]()
-![image]()
+![image](https://github.com/Yi-Cheng0101/Yi-Cheng0101/blob/main/public/images/fullsizeoutput_138e.jpeg?raw=true)
+![image](https://github.com/Yi-Cheng0101/Yi-Cheng0101/blob/main/public/images/B4B33E53-5880-4815-A3A2-19FA85A0783C.JPG?raw=true)
+![image](https://github.com/Yi-Cheng0101/Yi-Cheng0101/blob/main/public/images/FB75B06F-9EA3-49F9-A595-9E379E7DACEF.jpg?raw=true)
 大三下時，在清華大學藝術工坊開設個展，名稱為『一覺自然醒過來』，創作源自於自己對於想追求的事是相當堅持、會用盡力氣追求所追求的，往往種是累到一覺自然醒，展覽中將生活的體悟化為作品，紀錄關於自己生活的大小事。
 
 ## 獎狀 -  三年通識優秀作品 既 給下一代的通識備忘錄學術研討會
