@@ -23,7 +23,7 @@ description: "Welcome to my blog with some of my work in HPC Competition. "
    * Findnding valid dataset, training the NLP model on multiple GPUs and tuning the performance to make the accuracy higher on Cloze test.
 #### ISC 2021 Student Cluster Competition        
 #####   -  Contestant          Germany          Jun 2021  
-![image]()
+![image](https://github.com/Yi-Cheng0101/Yi-Cheng0101/blob/main/public/images/螢幕快照%202021-03-16%20上午3.29.21.png?raw=true)
    * Co-organized by the HPC-AI Advisory Council and ISC Group.
    * Accelerate the GPAW which is an open source program package for quantum mechanical atomistic simulations.
    * Using MPI and OpenMP and depending on the input data set to scaled the model on thousands of CPUs.
