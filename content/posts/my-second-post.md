@@ -24,4 +24,5 @@ description: "大學專題 與 Hackthon"
 
 ![image](https://github.com/Yi-Cheng0101/Yi-Cheng0101/blob/main/public/images/IMG_1285.jpeg?raw=true)
 
-
+由台積電與微軟合辦的 career hack
+Developed an smart AIoT helmet which behind equipped with micro camera and deployed AI model to detect dangerous thing likes stairs, nails, cars, etc. It will protect labors from dangerous and build an smart factory.
