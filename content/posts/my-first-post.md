@@ -24,5 +24,5 @@ description: "大學時期藝術創作的天地"
 
 ## 獎狀 -  三年通識優秀作品 既 給下一代的通識備忘錄學術研討會
 ![image]()
-![image]()
+![image](https://github.com/Yi-Cheng0101/Yi-Cheng0101/blob/main/public/images/IMG_9395.JPG)
 獲清大藝術中心推薦展於旺宏館大半圓「給下一世代通識教育學術研討會」與 獲通識教育中心展於「通識優秀作品成果展」上。
