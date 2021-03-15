@@ -13,6 +13,6 @@ description: "大學專題 與 Hackthon"
 ## 電機專題：
 為利用CV model 於妝容上的應用，從搜集dataset開始，評估不同的模型適用度，找出一套從不同的模型中互相建構出的實驗架構，也自行嘗試設計出妝容評分依據來做自己的image data。
 
-## ：
+## TSMC MICROSOFT CAREER HACK：
 
 
