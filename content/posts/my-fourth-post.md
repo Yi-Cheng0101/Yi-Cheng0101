@@ -19,7 +19,7 @@ description: "我的生活錦集"
 大學拿下跳遠全校第五名
 
 ## 暑假營隊美術老師
-![image]()
+![image](https://github.com/Yi-Cheng0101/Yi-Cheng0101/blob/main/public/images/IMG_2838.JPG?raw=true)
 
 
 
